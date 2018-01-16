@@ -9462,3 +9462,10 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     width: 100% !important);;
     min-height: 500px !important;
 }
+
+.fondoServicios{
+  padding-top: 50px;
+  background-image: url('../res/img/a.png') !important;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
